@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="spinnerlist">
+        <item>Select language</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>HTML</item>
+        <item>Android</item>
+    </string-array>
+</resources>
